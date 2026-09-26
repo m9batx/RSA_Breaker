@@ -1,4 +1,4 @@
-# A Simple Mathematical RSA Breaker
+# RSA analyzer based on Fermat's Factorization Method
 
 This project demonstrates a simple mathematical attack against RSA by finding the two factors of the RSA modulus `N`, namely `p` and `q`.
 
